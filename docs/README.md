@@ -1,5 +1,8 @@
 # COMP 3504 - Tool Inventory Management System
 
+## Project Details
+This is a school group project made with the intention of practicing the SCRUM methodology
+
 ## Overview
 
 This project is a simple inventory management system for a retail shop that sells tools. The program allows the store owner to:
