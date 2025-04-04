@@ -1,0 +1,111 @@
+============================================================
+ORDER ID.: 18936
+Date Ordered: October 21, 2024
+
+Item Description: Inny Outies
+Amount ordered: 27
+Supplier: 50010
+
+Total cost: $93.15
+============================================================
+ORDER ID.: 21883
+Date Ordered: October 22, 2024
+
+Item Description: Handy Pandies
+Amount ordered: 27
+Supplier: E & O Industries
+
+Total cost: $117.44999999999999
+------------------------------------------------------------
+ORDER ID.: 47654
+Date Ordered: October 22, 2024
+
+Item Description: Inny Outies
+Amount ordered: 27
+Supplier: Irkle Industries
+
+Total cost: $93.15
+
+============================================================
+ORDER ID.: 39361
+Date Ordered: October 22, 2024
+
+Item Description: Knock Bits
+Amount ordered: 5
+Supplier: Knock Knock Inc.
+
+Total cost: $63.35
+------------------------------------------------------------
+ORDER ID.: 65389
+Date Ordered: October 22, 2024
+
+Item Description: Knock Bits
+Amount ordered: 5
+Supplier: WinManufacturing Inc.
+
+Total cost: $499.95
+------------------------------------------------------------
+ORDER ID.: 17294
+Date Ordered: October 22, 2024
+
+Item Description: Knock Bits
+Amount ordered: 4
+Supplier: Wings Works
+
+Total cost: $56.0
+------------------------------------------------------------
+ORDER ID.: 02616
+Date Ordered: October 22, 2024
+
+Item Description: Knock Bits
+Amount ordered: 12
+Supplier: Thangs Inc.
+
+Total cost: $180.0
+------------------------------------------------------------
+ORDER ID.: 22935
+Date Ordered: October 22, 2024
+
+Item Description: Nic Nacs
+Amount ordered: 3
+Supplier: Knock Knock Inc.
+
+Total cost: $8.97
+------------------------------------------------------------
+ORDER ID.: 99738
+Date Ordered: October 22, 2024
+
+Item Description: Nic Nacs
+Amount ordered: 5
+Supplier: GeniousBuilders
+
+Total cost: $14.950000000000001
+------------------------------------------------------------
+ORDER ID.: 92876
+Date Ordered: October 22, 2024
+
+Item Description: Nic Nacs
+Amount ordered: 2
+Supplier: Pong Ping
+
+Total cost: $5.98
+------------------------------------------------------------
+ORDER ID.: 53660
+Date Ordered: October 22, 2024
+
+Item Description: Nic Nacs
+Amount ordered: 16
+Supplier: Wileys Inc.
+
+Total cost: $47.84
+
+============================================================
+ORDER ID.: 85820
+Date Ordered: October 22, 2024
+
+Item Description: Inny Outies
+Amount ordered: 27
+Supplier: Irkle Industries
+
+Total cost: $93.15
+
